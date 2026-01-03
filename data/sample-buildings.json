@@ -1,0 +1,109 @@
+{
+  "buildings": [
+    {
+      "id": "building-1",
+      "position": {
+        "lat": 35.6815,
+        "lng": 139.7675
+      },
+      "size": {
+        "width": 25,
+        "depth": 20,
+        "height": 45
+      },
+      "color": "#C0C0C0"
+    },
+    {
+      "id": "building-2",
+      "position": {
+        "lat": 35.6810,
+        "lng": 139.7670
+      },
+      "size": {
+        "width": 30,
+        "depth": 25,
+        "height": 60
+      },
+      "color": "#808080"
+    },
+    {
+      "id": "building-3",
+      "position": {
+        "lat": 35.6818,
+        "lng": 139.7678
+      },
+      "size": {
+        "width": 20,
+        "depth": 18,
+        "height": 35
+      },
+      "color": "#A0A0A0"
+    },
+    {
+      "id": "building-4",
+      "position": {
+        "lat": 35.6805,
+        "lng": 139.7665
+      },
+      "size": {
+        "width": 35,
+        "depth": 30,
+        "height": 55
+      },
+      "color": "#909090"
+    },
+    {
+      "id": "building-5",
+      "position": {
+        "lat": 35.6822,
+        "lng": 139.7682
+      },
+      "size": {
+        "width": 22,
+        "depth": 20,
+        "height": 40
+      },
+      "color": "#B0B0B0"
+    },
+    {
+      "id": "building-6",
+      "position": {
+        "lat": 35.6808,
+        "lng": 139.7672
+      },
+      "size": {
+        "width": 28,
+        "depth": 22,
+        "height": 50
+      },
+      "color": "#D0D0D0"
+    },
+    {
+      "id": "building-7",
+      "position": {
+        "lat": 35.6812,
+        "lng": 139.7668
+      },
+      "size": {
+        "width": 18,
+        "depth": 15,
+        "height": 30
+      },
+      "color": "#E0E0E0"
+    },
+    {
+      "id": "building-8",
+      "position": {
+        "lat": 35.6820,
+        "lng": 139.7670
+      },
+      "size": {
+        "width": 32,
+        "depth": 28,
+        "height": 65
+      },
+      "color": "#707070"
+    }
+  ],
+  "description": "東京駅付近のサンプル建物データ"
+}
