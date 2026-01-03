@@ -1,0 +1,43 @@
+{"location":"app/layout.tsx:18","message":"RootLayout SSR execution","data":{"isServer":true},"timestamp":1767446015568,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"components/Map2D.tsx:70","message":"Map2D useEffect - setting isClient","data":{"isClient":true},"timestamp":1767446019400,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/leaflet-fix.ts:16","message":"Leaflet imported and configured","data":{"hasL":true},"timestamp":1767446019419,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"lib/leaflet-fix.ts:16","message":"Leaflet imported and configured","data":{"hasL":true},"timestamp":1767446019419,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"lib/leaflet-fix.ts:9","message":"fixLeafletIcons client execution","data":{"isClient":true},"timestamp":1767446019408,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:11","message":"Home component mounted","data":{"isClient":true},"timestamp":1767446019416,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"lib/leaflet-fix.ts:9","message":"fixLeafletIcons client execution","data":{"isClient":true},"timestamp":1767446019402,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:11","message":"Home component mounted","data":{"isClient":true},"timestamp":1767446019404,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"components/Map2D.tsx:70","message":"Map2D useEffect - setting isClient","data":{"isClient":true},"timestamp":1767446019407,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"components/Map2D.tsx:70","message":"Map2D useEffect - setting isClient","data":{"isClient":true},"timestamp":1767446049645,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/leaflet-fix.ts:9","message":"fixLeafletIcons client execution","data":{"isClient":true},"timestamp":1767446049645,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"components/Map2D.tsx:70","message":"Map2D useEffect - setting isClient","data":{"isClient":true},"timestamp":1767446049646,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/leaflet-fix.ts:16","message":"Leaflet imported and configured","data":{"hasL":true},"timestamp":1767446049648,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"lib/leaflet-fix.ts:9","message":"fixLeafletIcons client execution","data":{"isClient":true},"timestamp":1767446049646,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"lib/leaflet-fix.ts:16","message":"Leaflet imported and configured","data":{"hasL":true},"timestamp":1767446049648,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/layout.tsx:18","message":"RootLayout SSR execution","data":{"isServer":true},"timestamp":1767446060468,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"components/Map2D.tsx:70","message":"Map2D useEffect - setting isClient","data":{"isClient":true},"timestamp":1767446061080,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/leaflet-fix.ts:9","message":"fixLeafletIcons client execution","data":{"isClient":true},"timestamp":1767446061081,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:11","message":"Home component mounted","data":{"isClient":true},"timestamp":1767446061081,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"components/Map2D.tsx:70","message":"Map2D useEffect - setting isClient","data":{"isClient":true},"timestamp":1767446061082,"sessionId":"debug-session","runId":"run1","hypothesisId":"D"}
+{"location":"lib/leaflet-fix.ts:9","message":"fixLeafletIcons client execution","data":{"isClient":true},"timestamp":1767446061082,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"lib/leaflet-fix.ts:16","message":"Leaflet imported and configured","data":{"hasL":true},"timestamp":1767446061083,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/page.tsx:11","message":"Home component mounted","data":{"isClient":true},"timestamp":1767446061082,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"lib/leaflet-fix.ts:16","message":"Leaflet imported and configured","data":{"hasL":true},"timestamp":1767446061083,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"app/layout.tsx:18","message":"RootLayout SSR execution","data":{"isServer":true},"timestamp":1767446256224,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"components/Map2D.tsx:24","message":"Map2D wrapper rendered","data":{"isClient":true},"timestamp":1767446257757,"sessionId":"debug-session","runId":"run2","hypothesisId":"E"}
+{"location":"components/Map2D.tsx:24","message":"Map2D wrapper rendered","data":{"isClient":true},"timestamp":1767446257758,"sessionId":"debug-session","runId":"run2","hypothesisId":"E"}
+{"location":"app/page.tsx:11","message":"Home component mounted","data":{"isClient":true},"timestamp":1767446257774,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"app/page.tsx:11","message":"Home component mounted","data":{"isClient":true},"timestamp":1767446257770,"sessionId":"debug-session","runId":"run1","hypothesisId":"B"}
+{"location":"components/Map2DInternal.tsx:67","message":"Map2DInternal useEffect - setting isClient","data":{"isClient":true},"timestamp":1767446258113,"sessionId":"debug-session","runId":"run2","hypothesisId":"E"}
+{"location":"lib/leaflet-fix.ts:9","message":"fixLeafletIcons client execution","data":{"isClient":true},"timestamp":1767446258113,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"components/Map2DInternal.tsx:67","message":"Map2DInternal useEffect - setting isClient","data":{"isClient":true},"timestamp":1767446258114,"sessionId":"debug-session","runId":"run2","hypothesisId":"E"}
+{"location":"lib/leaflet-fix.ts:9","message":"fixLeafletIcons client execution","data":{"isClient":true},"timestamp":1767446258115,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"lib/leaflet-fix.ts:16","message":"Leaflet imported and configured","data":{"hasL":true},"timestamp":1767446258115,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"lib/leaflet-fix.ts:16","message":"Leaflet imported and configured","data":{"hasL":true},"timestamp":1767446258116,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"components/Map2D.tsx:24","message":"Map2D wrapper rendered","data":{"isClient":true},"timestamp":1767446282583,"sessionId":"debug-session","runId":"run2","hypothesisId":"E"}
+{"location":"components/Map2D.tsx:24","message":"Map2D wrapper rendered","data":{"isClient":true},"timestamp":1767446282583,"sessionId":"debug-session","runId":"run2","hypothesisId":"E"}
+{"location":"components/Map2DInternal.tsx:67","message":"Map2DInternal useEffect - setting isClient","data":{"isClient":true},"timestamp":1767446282587,"sessionId":"debug-session","runId":"run2","hypothesisId":"E"}
+{"location":"components/Map2DInternal.tsx:67","message":"Map2DInternal useEffect - setting isClient","data":{"isClient":true},"timestamp":1767446282588,"sessionId":"debug-session","runId":"run2","hypothesisId":"E"}
+{"location":"lib/leaflet-fix.ts:16","message":"Leaflet imported and configured","data":{"hasL":true},"timestamp":1767446282589,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"lib/leaflet-fix.ts:9","message":"fixLeafletIcons client execution","data":{"isClient":true},"timestamp":1767446282588,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"lib/leaflet-fix.ts:16","message":"Leaflet imported and configured","data":{"hasL":true},"timestamp":1767446282589,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
+{"location":"lib/leaflet-fix.ts:9","message":"fixLeafletIcons client execution","data":{"isClient":true},"timestamp":1767446282588,"sessionId":"debug-session","runId":"run1","hypothesisId":"C"}
